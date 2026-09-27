@@ -9,7 +9,8 @@ import java.util.ArrayList;
 
 /**
  *
- * @author cavia
+ * Caio Andrade
+ * Alexandre Zampieri
  */
 public class TP02 {
 
